@@ -2,8 +2,9 @@
 
 /dist
 /out-tsc
-/.ng_pkg_build
 /node_modules
+/.ng_pkg_build
+/.vscode
 
 
 
